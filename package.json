@@ -7,8 +7,8 @@
   "unity": "2021.2",
   "license": "Oculus SDK License",
   "author": "Facebook Technologies, LLC",
-  "dependencies": {
-    "com.unity.xr.oculus": "3.0.2"
-  },
+	"dependencies": {
+		"com.unity.xr.oculus": "1.11.2"
+	},
   "type": "sdk"
 }
