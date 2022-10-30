@@ -1,11 +1,11 @@
 {
   "name": "com.oculus.unity.integration.vr",
   "displayName": "Oculus Integration VR",
-  "description": "Unofficial mirror of the Oculus Unity-Integration VR as a package.",
+  "description": "Unofficial mirror of the Oculus Unity-Integration VR as a package for Unity.",
   "keywords": [],
-  "version": "1.0.0",
+  "version": "31.2.0",
   "unity": "2021.2",
-  "license": "MIT",
+  "license": "Oculus SDK License",
   "author": "Facebook Technologies, LLC",
   "dependencies": {
     "com.unity.xr.oculus": "3.0.2"
