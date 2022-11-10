@@ -3,7 +3,7 @@
   "displayName": "Oculus Integration VR",
   "description": "Unofficial mirror of the Oculus Unity-Integration VR as a package for Unity.",
   "keywords": [],
-  "version": "31.2.0",
+  "version": "33.0.0",
   "unity": "2021.2",
   "license": "Oculus SDK License",
   "author": "Facebook Technologies, LLC",
